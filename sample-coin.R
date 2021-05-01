@@ -1,1 +1,0 @@
-sample(c("H","T"),1000,replace=TRUE)
